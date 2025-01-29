@@ -1,0 +1,52 @@
+header{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: cornflowerblue;
+    border-radius: 10px;
+    padding: 1px;
+}
+header:hover{
+    color: chartreuse;
+    transform: scale(100deg);
+    transition: all 1s;
+}
+div{
+    margin: 10px;
+    display: flex;
+    gap: 10px;
+    background-color: wheat;
+    border-radius: 10px;
+    padding-left: 15px;
+}
+main{
+    background-color: rgb(229, 229, 229);
+    margin: 5px;
+    padding: 10px;
+    border-radius: 7px;
+}
+section{
+    background-color: antiquewhite;
+    margin: 5px;
+    padding: 7px;
+    border-radius: 7px;
+}
+footer{
+    text-align: center;
+    background-color: rgb(167, 162, 162);
+    border-radius: 10px;
+}
+.sc1:hover{
+    background-color: red;
+    transition: all 1s;
+    transform:  scale(1) rotate(5deg) translateY(10px) skew(10deg);
+}
+.sc2:hover{
+    background-color: lightcoral;
+    transition: all 1s;
+    transform:  scale(1) rotate(5deg) translateY(10px) skew(10deg);
+}
+.sc3:hover{
+    background-color: lightpink;
+    transition: all 1s;
+    transform:  scale(1) rotate(5deg) translateY(10px) skew(10deg);
+}
