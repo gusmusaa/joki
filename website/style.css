@@ -36,17 +36,17 @@ footer{
     border-radius: 10px;
 }
 .sc1:hover{
-    background-color: red;
+    background-color: lightblue;
     transition: all 1s;
-    transform:  scale(1) rotate(5deg) translateY(10px) skew(10deg);
+    transform:  scale(1) rotate(2deg) translateY(-5px) skew(10deg);
 }
 .sc2:hover{
-    background-color: lightcoral;
+    background-color: lightblue;
     transition: all 1s;
-    transform:  scale(1) rotate(5deg) translateY(10px) skew(10deg);
+    transform:  scale(1) rotate(2deg) translateY(-5px) skew(10deg);
 }
 .sc3:hover{
-    background-color: lightpink;
+    background-color: lightblue;
     transition: all 1s;
-    transform:  scale(1) rotate(5deg) translateY(10px) skew(10deg);
+    transform:  scale(1) rotate(2deg) translateY(-5px) skew(10deg);
 }
